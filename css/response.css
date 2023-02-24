@@ -1,0 +1,302 @@
+@media (max-width: 1000px){
+    label.logo{
+      font-size: 25px;  
+      padding-left: 50px;
+    }
+    nav ul li a{
+      font-size: 16px;
+    }
+    .cir-1 img{
+        display: block;
+        width: 100%;
+        align-items: center;
+    }
+  }
+  @media (max-width: 940px){
+    .checkbtn{
+      display: block;
+    }
+    
+    nav ul{
+      position: fixed;
+      width: 100%;
+      height: 100vh;
+      background: #27282c;
+      top: 80px;
+      left: -100%;
+      text-align: center;
+      transition: all .5s;
+    }
+    nav ul li{
+      display: block;
+      margin: 50px 0;
+      line-height: 30px;
+    }
+    nav ul li a{
+      font-size: 20px;
+    }
+    a:hover, a.active{
+      background: none;
+      color: #0082e6;
+    }
+    #check:checked ~ ul{
+      left: 0;
+    }
+    .cir{
+        margin-left:200px;
+        right: 0px;
+    }
+    .cir-1{
+        display: block;
+        margin-left: 100px;
+    }
+    .cir-1 img{
+        display: block;
+        margin-left: 30px;
+    }
+    .cir-2{
+      margin: 360px 0px 0px 80px;
+
+    }
+    .text1 {
+      display: block;
+      margin: 500px 0px 0px 150px;
+    }
+    .btn-2{
+      display: block;
+      margin: 800px 0px 0px 150px;
+   } 
+   .btn{
+    margin-bottom: 5px;
+   }
+   .n-1{
+    display: block;
+    margin: 690px 0px 0px 150px;
+   }
+
+   .hr-1 p{
+    margin-top: 900px;
+    border-top: 0px;
+    width: 30px;
+  }
+
+  .hr-1 h3{
+    margin-left: 150px;
+    margin-top: 970px;
+  }
+ 
+  .ser-2{
+    margin-left: 95px;
+    margin-top:1100px;
+  }
+  .flip-box {
+    margin: 20px 0 0 60px;
+  }
+  .ser-1 {
+    margin: 1020px 0px 0px 150px;
+  }
+  .se-1{
+    margin-top: 10px;
+  }
+  .se-1 img{
+    width: 100%;
+    align-items: center;
+    margin-top: 10px;
+  }
+  .on-2{
+    width: 100%; 
+    text-align: center;
+    margin-left: 0px;
+  
+  }
+  .cir-5{
+    width: 120px;
+    height: 160px;
+    margin-top: 80px;
+  }
+  .cir-6{
+    width: 100px;
+    height: 200px;
+    margin-top: 1630px;
+  }
+  .cir-7{
+    width: 90px;
+    height: 150px;
+    margin-top: 1800px;
+  }
+  .cus-1{
+    margin-top:2530px;
+    left: 0px;
+    align-items: center;
+    width: 100%;
+  }
+  .cus-1 h1{
+    margin-top: 200px;
+    text-align: center;
+    left: 150px;
+  }
+  .cus-1 h2{
+    width: 100%;
+    text-align: center;
+  }
+  .cus-1 p{
+    margin-top: 370px;
+    text-align: center;
+    width: 100%;
+  }
+  .cus-2 img{
+    display: block;
+    margin-top: 500px;
+    width: 20%;
+    left: 25%;
+  }
+  .cus-3 .i-1 img{
+    
+    margin-top: 700px;
+    left:40%;
+}
+.cus-3 .i-2 img
+{
+    margin-top: 600px;
+      left:40%;
+    
+    
+}
+.cus-3 .i-3 img
+{
+  margin-top: 600px;
+  left:60%;
+}
+.cus-3 .i-4 img
+{
+  margin-top:800px;
+  left:20%;
+}
+.cus-3 .i-5 img
+{
+  margin-top: 800px;
+    left:40%;
+}
+.cus-3 .i-6 img
+{
+    margin-top: 700px;
+    left:60%;
+}
+.cus-3 .i-7 img
+{
+    margin-top: 800px;
+    left:60%;
+}
+.abo-1 img{
+  width: 90%;
+  margin-top: 950px;
+  margin-left: 20px;
+}
+.abo-2{
+  width:100%;
+  margin-top: 750px;
+  left:  0%;
+  text-align: center;
+  
+}
+.abo-2 h2{
+  margin:560px 10px 0px 0px;
+}
+.abo-2 p{
+  margin:10px 0px 0px 0px;
+  width: 90%;
+  text-align: center;
+}
+.abo-2 a{
+  display: block;
+  margin:30px 0px 0px 0px;
+  width: 100%;
+  
+}
+.abo-2 h1{
+  margin:20px 0px 0px 0px;
+  width: 100%;
+}
+.abo-3{
+  margin: 1800px 0px 50px 0px;
+  left: 45%;
+  text-align: center;
+
+}
+.abo-3 span{
+  color: #04D7A2;
+  font-size: 45px;
+}
+.abo-3 p{
+ text-align: center;
+}
+.p2{
+  display: block;
+  margin: 2100px 0px 0px 0px;
+}
+.p3 {
+  width: 80%;
+  margin-left:80px;
+  margin-bottom: 20px;
+}
+.p4 {
+  width: 80%;
+  margin-left:80px;
+  margin-bottom: 20px;
+}
+.p5 {
+  width: 80%;
+  float: left;
+  margin-left:80px; 
+}
+.con-1{
+  margin: 2250px 0px 0px 0px;
+}
+.con-1 h1{
+  margin: 40px 0px 0px 40%;
+}
+.con-1 span{
+  margin: 170px 0px 0px 40%; 
+}
+.con-1 h2{
+  margin: 0px 0px 8px 40%;
+}
+.con-1 h3{
+  margin: 8px 0px 30px 40%;
+}
+.con-1 i{
+  margin: 10px 0px 0px 40%;
+  display: block;
+}
+.con-1 .fa-square-facebook{
+  margin: 10px 0px 0px 40%;
+}
+.con-2{
+  width: 100%;
+  margin: 0px 0px 0px 0px;
+  top:2700px ;
+}
+.input-field{
+  width: 50%; 
+}
+.con-3{
+  margin: 0px 0px 0px 20px;
+  width: 100%;
+  align-items: center;
+  top: 3180px;
+}
+.con-3 iframe{
+  width: 100%;
+  height: 390px;
+}
+.cir-8{
+  width: 80px;
+  height: 170px;
+  margin-top: 3100px;
+}
+.cir-9{
+  width: 100px;
+  height: 190px;
+  margin-top: 2800px;
+}
+} 
